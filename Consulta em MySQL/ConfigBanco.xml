@@ -1,0 +1,2 @@
+Banco&Servidor&Driver&Url&Usuario&senhaBanco
+bpd_estoque&localhost&com.mysql.jdbc.Driver&jdbc:mysql://localhost:3306/bpd_estoque&root&EasdPG

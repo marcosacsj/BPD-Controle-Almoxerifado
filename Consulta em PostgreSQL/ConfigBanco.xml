@@ -1,0 +1,2 @@
+Banco&Servidor&Driver&Url&Usuario&senhaBanco
+bpd_estoque&bpd-srv&org.postgresql.Driver&jdbc:postgresql://bpd-srv:5432/bpd_controle&postgres&EasdPG
